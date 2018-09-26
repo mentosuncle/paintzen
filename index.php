@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.paintzen.com/services/cabinetry");
+header("Location: https://lightnermuseum.org/");
 die();
 ?>
